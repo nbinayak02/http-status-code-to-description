@@ -1,0 +1,258 @@
+[
+  {
+    "code": 100,
+    "description": "Your request is being processed. Please wait..."
+  },
+  {
+    "code": 101,
+    "description": "We're switching to a different protocol to handle your request."
+  },
+  {
+    "code": 102,
+    "description": "Your request is being processed. This may take a moment..."
+  },
+  {
+    "code": 103,
+    "description": "Loading... Some content is being prepared for you."
+  },
+  {
+    "code": 104,
+    "description": "Upload can be resumed. Continue uploading from where you left off."
+  },
+  {
+    "code": 200,
+    "description": "Success! Your request was completed successfully."
+  },
+  {
+    "code": 201,
+    "description": "Created successfully! Your new item has been saved."
+  },
+  {
+    "code": 202,
+    "description": "Request received! We're processing it now."
+  },
+  {
+    "code": 203,
+    "description": "Success! Note: This information is from a third-party source."
+  },
+  {
+    "code": 204,
+    "description": "Action completed successfully."
+  },
+  {
+    "code": 205,
+    "description": "Content updated! Please refresh to see changes."
+  },
+  {
+    "code": 206,
+    "description": "Partial content loaded successfully."
+  },
+  {
+    "code": 207,
+    "description": "Multiple operations completed. Check individual results."
+  },
+  {
+    "code": 208,
+    "description": "Already reported. No new updates available."
+  },
+  {
+    "code": 226,
+    "description": "Request completed successfully with modifications applied."
+  },
+  {
+    "code": 300,
+    "description": "Multiple options available. Please choose one."
+  },
+  {
+    "code": 301,
+    "description": "This page has moved permanently. Redirecting you now..."
+  },
+  {
+    "code": 302,
+    "description": "Content temporarily moved. Redirecting you..."
+  },
+  {
+    "code": 303,
+    "description": "Please see the redirected page for the response."
+  },
+  {
+    "code": 304,
+    "description": "Content hasn't changed since your last visit."
+  },
+  {
+    "code": 305,
+    "description": "Please access this resource through the specified proxy."
+  },
+  {
+    "code": 306,
+    "description": "This code is reserved and not currently in use."
+  },
+  {
+    "code": 307,
+    "description": "Temporarily redirecting. Please try again shortly."
+  },
+  {
+    "code": 308,
+    "description": "This page has permanently moved. Redirecting you now..."
+  },
+  {
+    "code": 400,
+    "description": "We couldn't understand your request. Please check and try again."
+  },
+  {
+    "code": 401,
+    "description": "Please log in to access this content."
+  },
+  {
+    "code": 402,
+    "description": "Payment is required to access this content."
+  },
+  {
+    "code": 403,
+    "description": "You don't have permission to access this content."
+  },
+  {
+    "code": 404,
+    "description": "Sorry, we couldn't find what you're looking for."
+  },
+  {
+    "code": 405,
+    "description": "This action is not allowed for this request."
+  },
+  {
+    "code": 406,
+    "description": "The requested format is not available."
+  },
+  {
+    "code": 407,
+    "description": "Proxy authentication required. Please authenticate."
+  },
+  {
+    "code": 408,
+    "description": "Your request took too long. Please try again."
+  },
+  {
+    "code": 409,
+    "description": "There's a conflict with the current state. Please refresh and try again."
+  },
+  {
+    "code": 410,
+    "description": "This content is no longer available."
+  },
+  {
+    "code": 411,
+    "description": "Content length is required. Please try again."
+  },
+  {
+    "code": 412,
+    "description": "Some conditions weren't met. Please try again."
+  },
+  {
+    "code": 413,
+    "description": "Your file or request is too large. Please try a smaller one."
+  },
+  {
+    "code": 414,
+    "description": "The URL is too long. Please shorten it and try again."
+  },
+  {
+    "code": 415,
+    "description": "This file type is not supported."
+  },
+  {
+    "code": 416,
+    "description": "The requested range is not available."
+  },
+  {
+    "code": 417,
+    "description": "We couldn't meet your request expectations."
+  },
+  {
+    "code": 418,
+    "description": "This code is reserved and not currently in use."
+  },
+  {
+    "code": 421,
+    "description": "Your request was sent to the wrong server."
+  },
+  {
+    "code": 422,
+    "description": "We understood your request but couldn't process it due to validation errors."
+  },
+  {
+    "code": 423,
+    "description": "This resource is currently locked. Please try again later."
+  },
+  {
+    "code": 424,
+    "description": "This request failed because a previous step failed."
+  },
+  {
+    "code": 425,
+    "description": "It's too early to process this request. Please try again."
+  },
+  {
+    "code": 426,
+    "description": "Please upgrade to a newer protocol to access this."
+  },
+  {
+    "code": 428,
+    "description": "This request requires additional conditions. Please try again."
+  },
+  {
+    "code": 429,
+    "description": "Too many requests! Please slow down and try again later."
+  },
+  {
+    "code": 431,
+    "description": "Your request headers are too large. Please simplify and try again."
+  },
+  {
+    "code": 451,
+    "description": "This content is unavailable due to legal restrictions."
+  },
+  {
+    "code": 500,
+    "description": "Something went wrong on our end. Please try again later."
+  },
+  {
+    "code": 501,
+    "description": "This feature is not yet implemented."
+  },
+  {
+    "code": 502,
+    "description": "We received an invalid response from another server. Please try again."
+  },
+  {
+    "code": 503,
+    "description": "Service temporarily unavailable. We'll be back soon!"
+  },
+  {
+    "code": 504,
+    "description": "The server took too long to respond. Please try again."
+  },
+  {
+    "code": 505,
+    "description": "Your HTTP version is not supported."
+  },
+  {
+    "code": 506,
+    "description": "Internal configuration error. Please contact support."
+  },
+  {
+    "code": 507,
+    "description": "We're running out of storage space. Please try again later."
+  },
+  {
+    "code": 508,
+    "description": "We detected an infinite loop in processing. Please contact support."
+  },
+  {
+    "code": 510,
+    "description": "Additional configuration is needed to complete your request."
+  },
+  {
+    "code": 511,
+    "description": "You need to authenticate with the network to continue."
+  }
+]

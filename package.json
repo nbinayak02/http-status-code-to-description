@@ -1,0 +1,36 @@
+{
+  "name": "http-status-code-to-description",
+  "version": "1.0.0",
+  "description": "An API that returns description of HTTP Status Code based on Code Number.",
+  "keywords": [
+    "Http",
+    "status",
+    "code",
+    "api",
+    "status",
+    "code",
+    "description"
+  ],
+  "homepage": "https://github.com/nbinayak02/http-status-code-to-description#readme",
+  "bugs": {
+    "url": "https://github.com/nbinayak02/http-status-code-to-description/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbinayak02/http-status-code-to-description.git"
+  },
+  "license": "ISC",
+  "author": "nbinayak02",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
